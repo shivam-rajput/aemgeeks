@@ -75,4 +75,4 @@ The project comes with the auto-public repository configured. To setup the repos
     
 ## Maven Archetype 23 command
 
-    mvn -B archetype:generate -DarchetypeGroupId=com.adobe.granite.archetypes -DarchetypeArtifactId=aem-project-archetype -DarchetypeVersion=23 -DaemVersion=6.5.0 -DappTitle="AEM Geeks" -DappId="aemgeeks" -DgroupId="com.aemgeeks" -DfrontendModule=general -DincludeExamples=y -DincludeDispatcherConfig=n -DlanguageCountry="en_us" -DsingleCountry=y
+    mvn -B archetype:generate -DarchetypeGroupId=com.adobe.granite.archetypes -DarchetypeArtifactId=aem-project-archetype -DarchetypeVersion=23 -DaemVersion=6.5.0 -DappTitle="AEM GEEKS" -DappId="aemgeeks" -DgroupId="com.aem.geeks" -DfrontendModule=none -DincludeExamples=y -DincludeDispatcherConfig=n -DlanguageCountry="en_us" -DsingleCountry=y
